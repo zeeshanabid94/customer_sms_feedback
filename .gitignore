@@ -8,6 +8,10 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+<<<<<<< HEAD
+=======
+build/
+>>>>>>> 07634e1d3bc6438bd6ca3d87bba1df86a43e8d04
 develop-eggs/
 dist/
 downloads/
@@ -88,7 +92,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
 windows_env
+
 
 # Spyder project settings
 .spyderproject
@@ -102,7 +108,10 @@ windows_env
 
 # mypy
 .mypy_cache/
+<<<<<<< HEAD
 
 # vs code
 .vscode
 dev.sh
+=======
+>>>>>>> 07634e1d3bc6438bd6ca3d87bba1df86a43e8d04
