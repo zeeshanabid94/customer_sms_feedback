@@ -17,6 +17,7 @@ import dj_database_url
 
 ENVIRONMENT = os.environ.get("ENVIRONMENT")
 DATABASE_URL = os.environ.get("DATABASE_URL")
+AZURE_KEY = os.environ.get("AZURE_KEY").strip()
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 

@@ -12,7 +12,7 @@ logger = logging.getLogger('sms_feedback')
 headers = {
     # Request headers
     'Content-Type': 'application/json',
-    'Ocp-Apim-Subscription-Key': 'abab87940a084ca8b93cb78973e8d923',
+    'Ocp-Apim-Subscription-Key': settings.AZURE_KEY,
 }
 
 import json
