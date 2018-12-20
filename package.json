@@ -1,0 +1,26 @@
+{
+  "name": "emotive",
+  "version": "1.0.0",
+  "description": "This is an application with a django backend connected to PostgreSQL and frontend in React. The purpose of this application is to get SMS feedback from the user about a product.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeeshanabid94/customer_sms_feedback.git"
+  },
+  "keywords": [
+    "twilio",
+    "react",
+    "django",
+    "postgreSQL",
+    "sentiment"
+  ],
+  "author": "Zeeshan Abid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeeshanabid94/customer_sms_feedback/issues"
+  },
+  "homepage": "https://github.com/zeeshanabid94/customer_sms_feedback#readme"
+}

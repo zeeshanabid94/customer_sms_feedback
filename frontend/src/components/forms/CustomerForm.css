@@ -1,0 +1,55 @@
+form {
+    padding: 10px;
+    display: block;
+}
+
+
+.button {
+    display: inline-block;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:10px;
+    padding-bottom:10px;
+    background-color: white;
+    border:solid;
+    border-width: 0.5px;
+    border-color: gray;
+    color: gray;
+}
+
+.button:hover {
+    background-color:lightblue;
+    cursor: pointer;
+    color: green;
+    border-color: green;
+}
+
+input {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: gray;
+    border-width: 0.5px;
+}
+
+label {
+    display: block;
+    margin: 10px;
+}
+
+.send_sms {
+    display: block;
+    text-align: center;
+    background-color: orange;
+    color: white;
+    border-radius: 20px;
+    height: 40px;
+    border:none;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.products {
+    margin: 10px;
+}
